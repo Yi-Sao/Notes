@@ -1,4 +1,4 @@
-# markdown用法详解
+# markdown用法详解~[2022.1.17]~
 
 ## 1、markdown介绍
 ```markdown
@@ -185,4 +185,5 @@ Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添�
 |Ctrl + k + Ctrl + r        |打开键盘快捷方式 PDF|
 |Ctrl + k + Ctrl + t	    |打开颜色主题|
 |Ctrl + k + Ctrl + p	    |当前打开的文档|
----
+
+***
